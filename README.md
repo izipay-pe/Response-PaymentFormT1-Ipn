@@ -53,14 +53,14 @@ Este es un ejemplo de una creación de un endpoint con NODE.JS para poder utiliz
   * paso 4: Seleccionamos el método con el que subiremos el proyecto, tenemos 2 opciones:  
         ![deploy app](/src/imagenes-readme/metodo-deploy.png)    
 
-    - Heroku CLI: seguir los pasos que indica.
+    - 4.1.- Heroku CLI: seguir los pasos que indica.
       ![deploy app](/src/imagenes-readme/heroku-cli.png) 
 
-    - Repositorio GitHub: se sincroniza con tu repositorio, buscas tu con el nombre de tu proyecto y le das conectar.
+    - 4.2.- Repositorio GitHub: se sincroniza con tu repositorio, buscas el nombre de tu proyecto y le das conectar.
       ![deploy app](/src/imagenes-readme/repositorio-git.png) 
 
-    - cuando encuentre tu repositorio verificas tu rama y finalizas dándole click en el botón `"Deploy Branch"`
-      ![deploy app](/src/imagenes-readme/finalizar.png) 
+      - cuando encuentre tu repositorio verificas tu rama y finalizas dándole click en el botón `"Deploy Branch"`
+        ![deploy app](/src/imagenes-readme/finalizar.png) 
 
   * paso 5: Para visualizar nuestro proyecto le damos click en `"View"`.
       ![deploy app](/src/imagenes-readme/ver-IPN.png)  
