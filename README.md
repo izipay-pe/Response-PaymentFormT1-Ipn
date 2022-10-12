@@ -73,7 +73,7 @@ Este es un ejemplo de una creación de un endpoint con NODE.JS para poder utiliz
 
 ## 3.- Configurar la URL de notificación al final del pago
 
-  * Ingresar a su back office vendedor [aquí](https://secure.micuentaweb.pe/vads-merchant/) e ingresar a la siguiente ruta: `Configuración -> Reglas de notificaciones -> Url de notificación al final del pago`.
+  * Ingresar a su back office vendedor [aquí](https://secure.micuentaweb.pe/vads-merchant/) e ingresar a la siguiente ruta: `Configuración -> Reglas de notificaciones -> Url de notificación al final del pago`, una ves ingrese su endpoint, Guarda y acepta el mensaje de confirmación.
 
       ![Regla de Notificación](/src/imagenes-readme/rconfigurar-endpoint.png)
   
