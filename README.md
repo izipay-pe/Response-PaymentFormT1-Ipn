@@ -9,7 +9,7 @@ Este es un ejemplo de una creación de un endpoint con NODE.JS para poder utiliz
 
 * Debe instalar la [versión de LTS node.js](https://nodejs.org/es/).
 
-* Tener una cuenta en [HEROKU](https://www.heroku.com/).
+* Tener o crear una cuenta en [HEROKU](https://www.heroku.com/)(no tienen costo).
 
 * OPCIONAL: tener una cuenta en [GitHub](https://github.com/).
 
