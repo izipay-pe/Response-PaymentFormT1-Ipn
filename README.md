@@ -5,6 +5,8 @@ Este es un ejemplo de una creación de un endpoint con NODE.JS para poder utiliz
 
 ## Requisitos Previos
 
+* Poder ingresar a su Back Office Vendedor. [Guía Aquí](https://github.com/izipay-pe/obtener-credenciales-de-conexion)
+
 * Debe instalar la [versión de LTS node.js](https://nodejs.org/es/).
 
 * Tener una cuenta en [HEROKU](https://www.heroku.com/).
