@@ -37,7 +37,7 @@ Este es un ejemplo de una creación de un endpoint con NODE.JS para poder utiliz
 
 ## 2.- Subirlo al servidor web
 
-  Para este ejemplo se utilizó el servidor gratuito de [Heroku)](https://www.heroku.com/).
+  Para este ejemplo se utilizó el servidor gratuito de [Heroku](https://www.heroku.com/).
 
   * paso 1: creamos nuestro app, donde se subirá el proyecto.
           ![crear app](/src/imagenes-readme/crear-app.png)
