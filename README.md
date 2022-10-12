@@ -1,6 +1,6 @@
 # Response-PaymentFormT1-Ipn
 
-Este es un ejemplo de una creación de una endpoint con NODE.JS para poder utilizarlo con la [respuesta IPN (Instant Notification Payment)](https://secure.micuentaweb.pe/doc/es-PE/rest/V4.0/kb/payment_done.html) en la pasarela de pagos de Izipay. 
+Este es un ejemplo de una creación de un endpoint con NODE.JS para poder utilizarlo con la [respuesta IPN (Instant Notification Payment)](https://secure.micuentaweb.pe/doc/es-PE/rest/V4.0/kb/payment_done.html) en la pasarela de pagos de Izipay. 
 
 
 ## Requisitos Previos
