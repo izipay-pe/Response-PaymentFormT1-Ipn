@@ -26,13 +26,13 @@ Este es un ejemplo de una creación de un endpoint con NODE.JS para poder utiliz
   npm i express morgan
   ```
   
-  * Para poder probar si el servidor esta operatibo ejecute el comando.
+  * Para poder probar si el servidor está operativo, ejecute el comando.
 
   ```bash
   npm run start
   ```
   
-  ver el resultado en http://localhost:5000/respuesta/IPN
+  puede ver el resultado en su servidor local: http://localhost:5000/respuesta/IPN
   
 
 ## 2.- Subirlo al servidor web
